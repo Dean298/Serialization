@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<serialization>
+    <example>
+        <example>
+            <INT val="1"/>
+            <String val="string"/>
+            <Vector val="3">
+                <element1 val="1.200000"/>
+                <element2 val="2.300000"/>
+                <element3 val="3.400000"/>
+            </Vector>
+        </example>
+        <example/>
+    </example>
+</serialization>

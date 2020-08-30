@@ -1,0 +1,3 @@
+/Users/dean/Desktop/C++Project/Basic Code/Serial/build/CMakeFiles/rebuild_cache.dir
+/Users/dean/Desktop/C++Project/Basic Code/Serial/build/CMakeFiles/edit_cache.dir
+/Users/dean/Desktop/C++Project/Basic Code/Serial/build/CMakeFiles/Serialization.dir

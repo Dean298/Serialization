@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dean/Desktop/C++Project/Basic Code/Serial/Serialization.h
+string
+-
+fstream
+-
+vector
+-
+list
+-
+set
+-
+map
+-
+
+/Users/dean/Desktop/C++Project/Basic Code/Serial/main.cpp
+cassert
+-
+Serialization.h
+/Users/dean/Desktop/C++Project/Basic Code/Serial/Serialization.h
+serialize_xml.h
+/Users/dean/Desktop/C++Project/Basic Code/Serial/serialize_xml.h
+
+/Users/dean/Desktop/C++Project/Basic Code/Serial/serialize_xml.h
+tinyxml2.h
+/Users/dean/Desktop/C++Project/Basic Code/Serial/tinyxml2.h
+string
+-
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+vector
+-
+list
+-
+set
+-
+map
+-
+
+/Users/dean/Desktop/C++Project/Basic Code/Serial/tinyxml2.h
+ctype.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stddef.h
+-
+cctype
+-
+climits
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+stdint.h
+-
+android/log.h
+-
+assert.h
+-
+
