@@ -1,10 +1,5 @@
 # A simple, convenient version of Serialization
 
-### 分工
-
-孙张诚：XML序列化，Bonus，Markdown
-
-姜徐贝尔：二进制序列化
 
 ### Description
 
