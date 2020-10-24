@@ -2,8 +2,8 @@
 //  serialize.h
 //  Serial_xml
 //
-//  Created by SZC&JXBR on 2020/6/24.
-//  Copyright © 2020 SZC&JXBR. All rights reserved.
+//  Created by SZC on 2020/6/24.
+//  Copyright © 2020 SZC. All rights reserved.
 //
 
 #ifndef serialize_xml_h
