@@ -2,8 +2,8 @@
 //  serialize_xml.cpp
 //  Serial_xml
 //
-//  Created by SZC&JXBR on 2020/7/2.
-//  Copyright © 2020 SZC&JXBR. All rights reserved.
+//  Created by SZC on 2020/7/2.
+//  Copyright © 2020 SZC. All rights reserved.
 //
 
 #include "serialize_xml.h"
