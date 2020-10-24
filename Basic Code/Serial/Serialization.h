@@ -2,8 +2,8 @@
 //  Serialization.h
 //  serial
 //
-//  Created by SZC&JXBR on 2020/6/21.
-//  Copyright © 2020 SZC&JXBR. All rights reserved.
+//  Created by SZC on 2020/6/21.
+//  Copyright © 2020 SZC. All rights reserved.
 //
 // This is the binary version of serialization
 
